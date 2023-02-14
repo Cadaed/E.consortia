@@ -26,6 +26,7 @@ Hossein Morowvat, M., Babaeipour, V., Rajabi-Memari, H., Vahidi, H. & Maghsoudi,
 Karstentischer, B., von Einem, J., Kaufer, B. and Osterrieder, N. (2006). Two-step Red-mediated recombination for versatile high-efficiency markerless DNA manipulation in Escherichia coli. BioTechniques, 40(2), pp.191–197.
 
 Lau, B.T.C., Malkus, P. and Paulsson, J. (2013). New quantitative methods for measuring plasmid loss rates reveal unexpected stability. Plasmid, 70(3), pp.353–361. doi:https://doi.org/10.1016/j.plasmid.2013.07.007.
+
 Michalska, K., Quan Nhan, D., Willett, J.L., Stols, L.M., Eschenfeldt, W.H., Jones, A.M., Nguyen, J.Y., Koskiniemi, S., Low, D.A., Goulding, C.W. and Joachimiak, A., (2018). Functional plasticity of antibacterial EndoU toxins. Molecular microbiology, 109(4), pp.509-527.
 
 parts.igem.org. (n.d.). Help:Terminators/Measurement/Caitlin Conboy - parts.igem.org. [online] Available at: https://parts.igem.org/Help:Terminators/Measurement/Caitlin_Conboy 
@@ -37,6 +38,7 @@ parts.igem.org. (n.d.). Help:Terminators/Measurement/Jason Kelly - parts.igem.or
 Ruhe, Z.C., Wallace, A.B., Low, D.A. & Hayes, C.S. (2013). Receptor polymorphism restricts contact-dependent growth inhibition to members of the same species. mBio, 4(4).
 
 Schaefer, A.L., Lappala, C.R., Morlen, R.P., Pelletier, D.A., Lu, T.-Y.S., Lankford, P.K., Harwood, C.S. and Greenberg, E.P. (2013). LuxR- and LuxI-Type Quorum-Sensing Circuits Are Prevalent in Members of the Populus deltoides Microbiome. Applied and Environmental Microbiology, 79(18), pp.5745–5752. doi:https://doi.org/10.1128/aem.01417-13.
+
 Tong, Y., Jørgensen, T.S., Whitford, C.M., Weber, T., et al. (2021). A versatile genetic engineering toolkit for E. coli based on CRISPR-prime editing. Nature Communications, 12(1).
 
 Yamazaki, Y., Niki, H. and Kato, J. (2008). Profiling of Escherichia coli Chromosome Database. Microbial Gene Essentiality: Protocols and Bioinformatics, pp.385–389.
