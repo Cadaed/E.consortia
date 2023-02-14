@@ -1,5 +1,5 @@
 # Resources for Mini-iGEM 2023 – Team 5: E.consortia
-## References
+## [References](References.md)
 References used for the project can be found in the [References.md](References.md) file
 
 ## Code
