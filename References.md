@@ -40,4 +40,3 @@ Schaefer, A.L., Lappala, C.R., Morlen, R.P., Pelletier, D.A., Lu, T.-Y.S., Lankf
 Tong, Y., Jørgensen, T.S., Whitford, C.M., Weber, T., et al. (2021). A versatile genetic engineering toolkit for E. coli based on CRISPR-prime editing. Nature Communications, 12(1).
 
 Yamazaki, Y., Niki, H. and Kato, J. (2008). Profiling of Escherichia coli Chromosome Database. Microbial Gene Essentiality: Protocols and Bioinformatics, pp.385–389.
-![image](https://user-images.githubusercontent.com/81696080/218853272-0b19ab5d-a4fc-4586-9b12-dd7f260594e9.png)
