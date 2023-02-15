@@ -18,4 +18,4 @@ The core of the ODE system was an adapted bistable switch that responds to a dec
 The reactor was conceived of as a turbidostat with a constant number of cells. After each time step replication events were considered and then a random sample of cells were diluted out to return the population to the desired population amount. Depending on the internal ODE systems, Producer cells expressed a certain amount of the BamA epitope, Killer cells had a likelihood of binding to cells based on their BamA epitope expression. The chance that this binding leads to death is a function of the Producer’s cdiI concentration.
 
 ## Protein Folding
-The folder [file](BamAe Protein Folding & Docking) contains the results and methodology of modelling BamA-epitope transmembrane protein folding and docking.
+The folder "BamAe Protein Folding & Docking" contains the results and methodology of modelling BamA-epitope transmembrane protein folding and docking.
