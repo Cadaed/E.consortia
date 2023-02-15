@@ -1,6 +1,6 @@
 # BamA-epitope Transmembrane Folding & Docking
 
-## [Predicted structure of the BamA-epitope sequence expressed in the producer cell](BamAe Structure.png)
+## [Predicted structure of the BamA-epitope sequence expressed in the producer cell](BamAe Protein Folding & Docking/BamAe Docking.png)
 
 Explanation for why we chose to express BamA-epitope instead of the full BamA transmembrane protein and how we modelled the structure:
 
