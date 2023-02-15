@@ -1,6 +1,6 @@
 # BamA-epitope Transmembrane Folding & Docking
 
-## Predicted structure of the BamA-epitope sequence expressed in the producer cell
+## [Predicted structure of the BamA-epitope sequence expressed in the producer cell]("BamAe Structure.png")
 
 Explanation for why we chose to express BamA-epitope instead of the full BamA transmembrane protein and how we modelled the structure:
 
@@ -10,7 +10,7 @@ We employed several structural analysis and protein folding methods to determine
 
 Using a deep learning prediction tool based on a pre-trained protein transformer model – DeepTMHMM (Hallgren et al., 2022), we predicted the topology across a membrane for our structure (periplasm, β-barrel, outer) and plotted them on the final structure (Figure A2.1. A). Lastly, following a review of the available literature, we concluded that β-barrel membrane proteins can be inserted in the outer membrane using the same BamA-BAM complex, therefore our structure with a single β-barrel region should be incorporated in the OM as well, as long as we first incorporate a Sec translocon for periplasmic translocation (Doyle & Bernstein, 2019; Zhang & Han, 2016). Therefore, we will only be expressing the loop 6-7 (periplasmic region 5) structure in our system, denoted as BamA-epitope 
 
-## Docked BamA-epitope – CdiA and binding interface
+## [Docked BamA-epitope – CdiA and binding interface]("BamAe Docking.png")
 
 Docked CdiA – BamA-epitope complex structure. 
 
